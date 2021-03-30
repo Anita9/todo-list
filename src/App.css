@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.inputField {
+  width: 400px;
+}
+
+.inputBtns {
+  margin-left: 5px !important;
+  height: 40px !important;
+}
+
+.itemsList {
+  text-align: center !important;
+  margin-top: 20px !important;
+}
+
+li {
+  margin:5px auto 2px auto;
+  width: 635px;
+  border: 1px solid rgba(26, 139, 192, 0.7);
+  
+}
