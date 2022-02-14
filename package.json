@@ -1,6 +1,6 @@
 {
   "homepage": "https://anita9.github.io/todo-list/",
-  "name": "To-Do List",
+  "name": "todolist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
